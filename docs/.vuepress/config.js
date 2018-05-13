@@ -1,5 +1,6 @@
 module.exports = {
   dest: './dist',
+  base: '/dist/',
   title: '前端逐个击破',
   themeConfig: {
     nav: [
