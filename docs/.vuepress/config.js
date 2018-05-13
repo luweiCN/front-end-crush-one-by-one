@@ -1,6 +1,6 @@
 module.exports = {
   dest: './dist',
-  base: '/dist/',
+  base: 'https://luweicn.github.io/front-end-crush-one-by-one/dist/',
   title: '前端逐个击破',
   themeConfig: {
     nav: [
